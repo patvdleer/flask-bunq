@@ -1,0 +1,2 @@
+flask>=0.8
+bunq-sdk>=0.12
